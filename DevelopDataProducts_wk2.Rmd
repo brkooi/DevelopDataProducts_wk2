@@ -28,7 +28,7 @@ MagGreater5 <- subset(earthquakes, impact.magnitude>5)
 
 ## Map Earthquakes
 
-This section display a map with earthquakes of magnitude grater then 5.
+This section display a map with earthquakes of magnitude greater than 5.
 
 ```{r map}
 # make a custom marker
